@@ -1,0 +1,29 @@
+<ul class="navigate-right">
+        <li class="list-item"><a class="transition-link" href="index.html">Home</a></li>
+        <li class="list-item"><a class="transition-link" href=".html">Projects</a></li>
+        <li class="list-item" id="social-click"><a  href="javascript:void(0)">Social</a></li>
+        <li class="list-item social-icon"><a  href="https://twitter.com/" target ="_blank"><i class="fa fa-twitter"></i></a></li>
+        <li class="list-item social-icon"><a  href="https://github.com/" target ="_blank"><i class="fa fa-github"></i></a></li>
+		<li class="list-item social-icon"><a  href="https://facebook.com/" target ="_blank"><i class="fa fa-facebook"></i></a></li>
+      </ul>
+      
+      <div class="mobile-navigate">
+        <a id="navigation-target" class="navigation-target"></a>
+        <span class="navigation-toggle">
+          <span class="navigation-toggle-icon"></span>
+          <span class="navigation-toggle-label">Menu</span>
+        </span> 
+      </div>
+
+    </nav>
+
+    <div class="dropdown-menu">
+      <ul class="mobile-menu no-bullet">
+        <li><a class="transition-link" href=".html">Projects</a></li>
+        <li><a  href="https://twitter.com/" target ="_blank"><i class="fa fa-twitter"></i> - Twitter </a></li>
+        <li><a  href="https://github.com/" target ="_blank"> <i class="fa fa-github"></i> - Github</a></li>
+		<li><a  href="https://facebook.com/" target ="_blank"> <i class="fa fa-facebook"></i> - Facebook</a></li>
+      </ul>
+    </div>
+  </div>
+</header>
